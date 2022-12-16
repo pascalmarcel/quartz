@@ -35,3 +35,5 @@ globalGraph:
 
 paths:
   - /moc: "#4388cc"
+
+baseURL = "https://pascalmarcel.github.io/quartz/"
